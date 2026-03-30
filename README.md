@@ -1,7 +1,5 @@
 # [https://go.dev/](https://go.dev/)
 
-## _CLI_$ gofmt -w galton_board.go •:::•:::•:::• _CLI_$ go run galton_board.go
-
 ## [https://en.wikipedia.org/wiki/Galton_board](https://en.wikipedia.org/wiki/Galton_board)
 
 ### NIL
